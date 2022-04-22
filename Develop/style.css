@@ -6,6 +6,10 @@ body {
 
 }
 
+.container-fluid {
+  padding: 25px;
+}
+
 textarea{
   background: transparent;
   border: none;
@@ -27,6 +31,7 @@ textarea{
   white-space: pre-wrap;
   margin-left: 10px;
   margin-right: 10px;
+  margin-bottom: 10px;
 }
 
 .time-block{
